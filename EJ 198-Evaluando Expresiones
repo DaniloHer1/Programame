@@ -2,11 +2,10 @@ import java.util.ArrayDeque;
 import java.util.Stack;
 
 /**
- * Nombre del ejercicio Es el ejercicio ??? de Acepta el reto / HackerRank / UVA
+ * Nombre del ejercicio Es el ejercicio 198 de Acepta el reto /
  * ...
  *
- * @author ???
- * @version dd.mm.aaaa
+ * @author Daniel Hernando
  */
 public class Evaluandoexpresiones {
 	static java.util.Scanner entrada;

@@ -1,3 +1,15 @@
+/**
+
+ * Nombre del ejercicio Es el ejercici 363 de Acepta el reto
+
+ * ...
+
+ * 
+
+ * @author Daniel Hernando
+
+
+ */
 
 public class lascalorias {
 	static java.util.Scanner entrada;
